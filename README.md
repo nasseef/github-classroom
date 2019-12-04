@@ -20,7 +20,7 @@
 1. Go to [GitHub Classroom](https://classroom.github.com)
 2. Click on `Grant access to an organization ...`
 3. Click on `Grant` next the organization
-4. go back to [GitHub Classroom](https://classroom.github.com)
+4. Go back to [GitHub Classroom](https://classroom.github.com)
 5. Click on `New classroom`
 6. Click on the organization you wish to enroll
 7. Give it a name like `2400-fl-19-classroom`
@@ -40,7 +40,7 @@ Go to [Travis-CI](https://Travis-Ci.com)
 
 1. Go to [GitHub Classroom](https://classroom.github.com)
 2. If you would like to distribute starter code, create a template repository with your starter code and modify the `Setting` by checking `Template repository`.
-3. Add appropriate `Actions` or `Travis-ci` files for testing.
+3. Add appropriate `Actions` or `Travis-CI` files for testing.
 4. When you create a new assignment, you can point to this template as your starter code.
    
 
