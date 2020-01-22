@@ -26,7 +26,10 @@
 7. Give it a name like `2400-fl-19-classroom`
 8. Now it's ready for assignments
 
-### Set up Travis-CI (If needed)
+### Set up GitHub Actions to run students' projects (if needed)
+Open the template repository for an assignment and click on `Actions`. Use a workflow appropriate for your project. You can customize the workflow by editing the `.yml` file under `.github/workflows` directory.
+
+### Set up Travis-CI (if needed)
 
 Go to [Travis-CI](https://Travis-Ci.com)
 1. Login with your `GitHub` account
